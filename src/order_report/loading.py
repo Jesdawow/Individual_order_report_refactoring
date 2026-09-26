@@ -20,4 +20,3 @@ def load_orders(file_path: Path) -> pd.DataFrame:
     logger.info("Loaded %s rows", len(orders))
 
     return orders
-

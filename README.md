@@ -86,6 +86,7 @@ The main files have the following responsibilities:
 - `processing.py` cleans the data and calculates the values used in the reports
 - `reporting.py` creates and saves the different reports
 - `tests/` contains the automated pytest tests
+- `original/` contains the original version of the program before refactoring
 - `code_review.md` contains the review of the original program before the refactoring began
 
 ## Reflection
